@@ -1,1 +1,1 @@
-# TikzNetwork
+# TikzNetwork.jl
