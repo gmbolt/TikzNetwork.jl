@@ -10,6 +10,7 @@ NetworkLayout = "46757867-2c16-5918-afeb-47bfcb05e46a"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 
 [compat]
+NetworkLayout = "0.4"
 julia = "1"
 
 [extras]
